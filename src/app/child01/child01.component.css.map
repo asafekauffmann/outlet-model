@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "child01.component.sass"
+    ],
+    "names": [],
+    "file": "child01.component.css"
+}
