@@ -1,6 +1,5 @@
 import { Child02Component } from './child02/child02.component';
 import { Child01Component } from './child01/child01.component';
-import { PagenotfoundComponent } from './pagenotfound/pagenotfound.component';
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { FirstComponent } from './first/first.component';
